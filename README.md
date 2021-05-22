@@ -64,3 +64,71 @@ NAVER 새 탭에서 열기</a>
 [![NAVER](https://littledeep.com/wp-content/uploads/2020/09/naver-icon-style.png)](https://naver.com)
 
 
+
+# 인용문
+> 남의말이나 글에서 직접 또는 간접으로 따온 문장.
+> (네이버 국어 사전)
+
+> 인용문을 작성하세요!
+>> 중접된 인용문
+>>> 중중첩된 인용문 1
+>>> 중중첩된 인용문 2
+>>> 중중첩된 인용문 3
+
+# 인라인 코드 강조(백틱 기호 사용)
+
+CSS에서 `background` 혹은 `backgroud-image` 속성으로 요소에 배경 이미지를 삽입할 수 있습니다.
+
+# 블록 코드 강조
+```html
+<a href="https://www.google.com">GOOGLE</a>
+```
+
+```css
+.list > li {
+    position: absolute;
+}
+```
+
+```javascript
+function func(){
+    var a = 'AAA';
+}
+```
+
+```bash
+$ git commit -m 'Study Markdown'
+```
+
+```plaintext
+동해물과 백두산이 마르고 닳도록  
+하느님이 보우하사 우리나라 만세
+```
+
+# 표(Table)
+
+position 속성
+
+값 | 의미 | 기본값
+-- | :--: | --:
+왼쪽정렬 | 가운데 정렬 | 오른쪽 정렬
+static | 기준 없음 | O
+relative | 요소 자신 | X
+absolute | 위치 상 부모 요소 | X
+fixed | 뷰포트 | X
+
+# 원시 HTML
+동해물과 <span style="text-decoration: underline;">백두산</span>이 마르고 닳도록<br/>
+하느님이 보우하사 우리나라 만세
+
+<a href = "https://naver.com" title = "Naver로 이동" target="_blank">naver</a>
+
+<img width="70" src = "https://littledeep.com/wp-content/uploads/2020/09/naver-icon-style.png" alt = "naver">
+
+# 수평선
+
+---
+ㅁㅁ
+***
+ㄱㄱ
+___
